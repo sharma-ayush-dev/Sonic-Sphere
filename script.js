@@ -24,5 +24,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    console.log("Music landing page loaded successfully. Ready for Spline integration.");
+    console.log("this is a print msg.");
 });
