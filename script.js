@@ -24,5 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    console.log("mera pehla change");
+
+    console.log("this no longer creates a conflict");
+
 });
