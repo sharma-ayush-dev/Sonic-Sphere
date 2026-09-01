@@ -24,5 +24,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    console.log("this is a print msg.");
+    console.log("mera pehla change");
 });
